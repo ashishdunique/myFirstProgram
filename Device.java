@@ -10,6 +10,7 @@ public interface Device {
 	/**
 	 * Returns the current direction of travel (bearing) of the robot in
 	 * degrees (as reported by a digital compass). Values are from 0 to 359.
+	 * Adding additional comment
 	 */
 	int getCurrentCompassBearing();
 	
