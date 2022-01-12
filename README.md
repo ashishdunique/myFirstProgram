@@ -1,2 +1,2 @@
 # myFirstProgram
-first gfdf:wq:ithub program
+ finance first gfdf:wq:ithub program
